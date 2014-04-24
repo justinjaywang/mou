@@ -6,7 +6,7 @@ A collection of [Mou](http://mouapp.com/) themes and stylesheets.
 
 ### CSS
 
-- **Bootstrap.css** &mdash; Custom version based off [Bootstrap](http://getbootstrap.com) styles.
+- **Bootstrap.css** &mdash; custom version based off [Bootstrap](http://getbootstrap.com) styles.
 
 ![Solarized (Light) theme and Bootstrap CSS](mou-screenshot.png)
 
