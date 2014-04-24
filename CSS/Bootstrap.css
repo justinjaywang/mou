@@ -353,5 +353,8 @@ pre code {
 }
 
 body {
-  padding: 7px 14px;
+  margin: 1em 5px 2em 15px;
+}
+img {
+  max-width: 100%;
 }
