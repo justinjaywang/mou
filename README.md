@@ -1,12 +1,10 @@
-# Mou
+A collection of [Mou](http://mouapp.com/) themes and stylesheets.
 
-[Mou](http://mouapp.com/) themes and CSS collection.
-
-## Themes
+### Themes
 
 - **Solarized (Light).txt** and **Solarized (Light)+.txt** &mdash; from [Code Catalyst / mou-theme-solarized](https://github.com/CodeCatalyst/mou-theme-solarized)
 
-## CSS
+### CSS
 
 - **Bootstrap.css** &mdash; Custom version based off [Bootstrap](http://getbootstrap.com) styles.
 
