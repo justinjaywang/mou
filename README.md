@@ -4,7 +4,7 @@
 
 ## Themes
 
-- **Solarized (Light).txt** and **Solarized (Light) +.txt** &mdash; from [Code Catalyst / mou-theme-solarized](https://github.com/CodeCatalyst/mou-theme-solarized)
+- **Solarized (Light).txt** and **Solarized (Light)+.txt** &mdash; from [Code Catalyst / mou-theme-solarized](https://github.com/CodeCatalyst/mou-theme-solarized)
 
 ## CSS
 
